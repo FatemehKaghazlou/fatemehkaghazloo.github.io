@@ -148,6 +148,7 @@ function runExperiment() {
         paperclip.style.transition = "1.5s";
         paperclip.style.left = (magnetLeft - 70) + "px";
     } else {
+        dropZone.style.fontSize = "70px";
         paperclip.style.transition = "1.5s";
         paperclip.style.left = (dropZone.offsetLeft - 165) + "px";
     }
