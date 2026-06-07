@@ -44,7 +44,7 @@ body {
 
 .page {
     display: none;
-    height: 100vh;
+    height: 100%;
     padding: 70px 20px;
 }
 
