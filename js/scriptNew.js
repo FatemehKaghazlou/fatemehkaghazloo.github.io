@@ -1245,7 +1245,7 @@ function buildJourneyAndCert() {
                         font-size:20px;color:#1e3a8a;
                         font-family:cursive;letter-spacing:2px;
                         border-bottom:1.5px solid #93c5fd;padding-bottom:2px;
-                    ">✍ مربی علوم</div>
+                    ">✍ فاطمه کاغذلو</div>
                 </div>
             </div>
         </div>
