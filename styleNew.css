@@ -44,7 +44,7 @@ body {
 
 .page {
     display: none;
-    max-height: 100vh;
+    height: 100vh;
     padding: 70px 20px;
 }
 
@@ -62,7 +62,7 @@ body {
 .classroom {
     width: 100%;
     max-width: 1300px;
-    height: 750px;
+    height: 80vh;
     border-radius: 30px;
     overflow: hidden;
     position: relative;
