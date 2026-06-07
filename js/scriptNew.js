@@ -161,9 +161,10 @@ function runExperiment() {
 
 function resetExperiment() {
     paperclip.style.transition = "none";
-    paperclip.style.left = "80px";
-    paperclip.style.top  = "75px";
+    paperclip.style.left = "10%";
+    paperclip.style.top  = "20%";
     dropZone.innerHTML   = "مانع را اینجا قرار بده";
+    dropZone.style.fontSize = "20px";
     dropZone.style.display = "flex";
     selectedMaterial = "";
 }
