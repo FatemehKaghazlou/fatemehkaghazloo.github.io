@@ -13,7 +13,7 @@ body {
     direction: rtl;
     font-family: "Vazirmatn", Tahoma, sans-serif;
     background: linear-gradient(180deg, #ccecff, #eef9ff);
-    min-height: 100vh;
+    height: 100vh;
     overflow-x: hidden;
     touch-action: none;
 }
